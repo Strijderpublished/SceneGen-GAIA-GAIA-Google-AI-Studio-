@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Scene Generator",
+  "description": "Generate a video re-enactment of a scene based on a detailed text prompt using the Gemini API. The app handles the asynchronous nature of video generation with a clear loading state and provides a user-friendly interface for input and viewing.",
+  "requestFramePermissions": []
+}
